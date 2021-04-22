@@ -1,0 +1,7 @@
+homepage: "https://yuhui.sg?utm_source=tagmanager.google.com&utm_medium=app&utm_campaign=GTM+tag+templates&utm_content=Cloudflare+Web+Analytics"
+documentation: "https://github.com/yuhui/gtm-template-cloudflare-web-analytics/wiki/Instructions"
+versions:
+  # Latest version
+  - sha: c8336b9f212a5e9307b8077cc86f31dce6bb7dc0
+    changeNotes: Initial release.
+  # Older versions
